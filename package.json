@@ -1,0 +1,32 @@
+{
+  "name": "glift-gulp-goo",
+  "version": "1.0.0",
+  "description": "Glup configuration for Glift and related projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "http://github.com/Kashomon/glift/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashomon/glift-gulp-goo.git"
+  },
+  "keywords": [
+    "glift"
+  ],
+  "author": {
+    "name": "Josh Hoak",
+    "email": "jrhoak@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kashomon/glift-gulp-goo/issues"
+  },
+  "homepage": "https://github.com/Kashomon/glift-gulp-goo",
+  "devDependencies": {
+    "through2": "^2.0.1",
+    "glob": "^7.0.3"
+  }
+}
